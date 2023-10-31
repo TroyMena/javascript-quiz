@@ -10,3 +10,12 @@ I have a few additional sources for my code for this application:
 - A study group I worked with
 - ChatGPT
 
+## Website URL
+
+https://troymena.github.io/javascript-quiz/
+
+## Website Screenshot
+
+The screenshot below shows the website at the time of writing this README file:
+
+![website screenshot](./assets/images/website-screenshot.png)
